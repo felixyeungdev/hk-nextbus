@@ -3,6 +3,8 @@
     "license": "MIT",
     "main": "dist/index.js",
     "typings": "dist/index.d.ts",
+    "repository": "https://github.com/felixyeungdev/hk-nextbus.git",
+    "bugs": "https://github.com/felixyeungdev/hk-nextbus/issues",
     "files": [
         "dist",
         "src"
@@ -32,7 +34,8 @@
         "trailingComma": "es5"
     },
     "name": "hk-nextbus",
-    "author": "Felix Yeung",
+    "description": "Non-official Node.JS wrapper for Next Bus",
+    "author": "Felix Yeung Lai Ting",
     "module": "dist/hk-nextbus.esm.js",
     "size-limit": [
         {
